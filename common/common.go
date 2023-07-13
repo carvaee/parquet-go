@@ -11,7 +11,7 @@ import (
 
 	"github.com/apache/arrow/go/arrow"
 	"github.com/apache/arrow/go/arrow/array"
-	"github.com/xitongsys/parquet-go/parquet"
+	"github.com/carvaee/parquet-go/parquet"
 )
 
 // `parquet:"name=Name, type=FIXED_LEN_BYTE_ARRAY, length=12"`

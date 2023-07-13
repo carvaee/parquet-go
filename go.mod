@@ -1,9 +1,9 @@
 module github.com/carvaee/parquet-go
 
-go 1.16
+go 1.17
 
 require (
-	github.com/apache/arrow/go/arrow v0.0.0-20200730104253-651201b0f516
+	github.com/apache/arrow/go/arrow latest
 	github.com/apache/thrift v0.14.2
 	github.com/aws/aws-sdk-go v1.30.19
 	github.com/goccy/go-reflect v1.2.0

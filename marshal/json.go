@@ -7,11 +7,11 @@ import (
 	"reflect"
 	"strings"
 
-	"github.com/xitongsys/parquet-go/common"
-	"github.com/xitongsys/parquet-go/layout"
-	"github.com/xitongsys/parquet-go/parquet"
-	"github.com/xitongsys/parquet-go/schema"
-	"github.com/xitongsys/parquet-go/types"
+	"github.com/carvaee/parquet-go/common"
+	"github.com/carvaee/parquet-go/layout"
+	"github.com/carvaee/parquet-go/parquet"
+	"github.com/carvaee/parquet-go/schema"
+	"github.com/carvaee/parquet-go/types"
 )
 
 //ss is []string

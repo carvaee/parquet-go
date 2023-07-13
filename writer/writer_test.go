@@ -11,9 +11,9 @@ import (
 	"github.com/stretchr/testify/assert"
 	"github.com/xitongsys/parquet-go-source/buffer"
 	"github.com/xitongsys/parquet-go-source/writerfile"
-	"github.com/xitongsys/parquet-go/parquet"
-	"github.com/xitongsys/parquet-go/reader"
-	"github.com/xitongsys/parquet-go/source"
+	"github.com/carvaee/parquet-go/parquet"
+	"github.com/carvaee/parquet-go/reader"
+	"github.com/carvaee/parquet-go/source"
 )
 
 // TestNullCountsFromColumnIndex tests that NullCounts is correctly set in the ColumnIndex.
